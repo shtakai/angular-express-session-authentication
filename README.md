@@ -1,6 +1,8 @@
 angular-express-session-authentication
 =======================
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/angular-express-session-authentication.svg)](https://www.guardrails.io)
+
 This code is an implementation of traditional cookie-session based authentication with node.js express server with angularjs client app.
 
 It is designed to support securing restful routes and provide authentication strategies for angular.js project on node.js express server with mongodb (MEAN stack) and it can be good starting point to start and build an app with MEAN.
